@@ -100,7 +100,7 @@ I’m a developer who enjoys building practical, polished experiences that are u
   <a href="https://github.com/sameerzaman15">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/sameerzaman15/">
+  <a href="https://www.linkedin.com/in/sameer2095/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
