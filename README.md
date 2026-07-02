@@ -1,204 +1,116 @@
-# 🎨 GitHub Revamp - Profile README Template
+# Hi there! 👋 I'm Sameer Zaman
 
-> Create an awesome GitHub profile README in minutes! Clone, customize, and showcase your projects with style.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/gulglitch/github-revamp?style=flat-square)](https://github.com/gulglitch/github-revamp/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/gulglitch/github-revamp?style=flat-square)](https://github.com/gulglitch/github-revamp/network)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Software+Developer;Building+polished+web+experiences;Exploring+AI%2C+frontend%2C+and+product+thinking)](https://git.io/typing-svg)
 
 ---
 
-## 🌟 What is This?
+## 👨‍💻 About Me
 
-**GitHub Revamp** is a ready-to-use GitHub profile README template that helps you create a professional and eye-catching profile in minutes. No coding required - just clone, replace placeholders, and push!
+I’m a developer who enjoys building practical, polished experiences that are useful, elegant, and easy to use. My work sits at the intersection of frontend development, thoughtful product design, and modern web tooling.
 
-### ✨ Features
-
-- 🎯 **Easy to use** - Just replace placeholders with your info
-- 🐍 **Animated contribution snake** - GitHub Actions included
-- 📊 **GitHub stats cards** - Automatically updated
-- 🎨 **Fully customizable** - Colors, themes, sections
-- 📱 **Responsive design** - Looks great on all devices
-- 🚀 **Zero dependencies** - Pure markdown, no build process
+- 🔭 Currently building and refining web apps, developer tools, and AI-driven experiments
+- 🎮 Curious about new technologies, creative problem-solving, and continuous learning
+- 🤖 Interested in AI, automation, and intelligent user experiences
+- 📱 Focused on creating fast, clean, and approachable interfaces
+- 💼 Open to collaboration, mentorship, and impactful product work
+- 🧠 Interested in: modern web development, AI workflows, open source, and product thinking
 
 ---
 
-## 📸 Preview
+## ⭐ LATEST PROJECTS
 
-Check out the live example: [github.com/gulglitch](https://github.com/gulglitch)
-
----
-
-## 🚀 Quick Start
-
-### 1️⃣ Create Your Profile Repository
-
-Your repository must be named **exactly** as your GitHub username:
-- Username: `john-doe` → Repository: `john-doe/john-doe`
-
-### 2️⃣ Clone This Template
-
-```bash
-git clone https://github.com/gulglitch/github-revamp.git [your-username]
-cd [your-username]
-```
-
-### 3️⃣ Change Remote URL
-
-```bash
-git remote remove origin
-git remote add origin https://github.com/[YOUR-USERNAME]/[YOUR-USERNAME].git
-```
-
-### 4️⃣ Customize Your Profile README
-
-Rename the template file:
-```bash
-# On Windows (cmd)
-move PROFILE_TEMPLATE.md README.md
-
-# On Windows (PowerShell) / macOS / Linux
-mv PROFILE_TEMPLATE.md README.md
-```
-
-Open `README.md` and replace all placeholders:
-- `[YOUR_NAME]` → Your name
-- `[YOUR_USERNAME]` → Your GitHub username
-- `[YOUR_EMAIL]` → Your email
-- `[YOUR_TAGLINE_X]` → Your taglines
-- And more...
-
-### 5️⃣ Push to GitHub
-
-```bash
-git add .
-git commit -m "Initial profile setup"
-git push -u origin main
-```
-
-### 6️⃣ Enable GitHub Actions
-
-1. Go to your repository settings
-2. Settings → Actions → General
-3. Enable "Read and write permissions"
-4. Save
-
-**Done!** Visit `github.com/[your-username]` to see your profile 🎉
+| 🚀 **Portfolio & Product Work** | 🤖 **AI & Bot Experiments** |
+|---|---|
+| **[portfolio](https://github.com/sameerzaman15/portfolio)**<br/>A React-based portfolio that showcases my skills and experience in a crisp, modern format. <br/><br/>![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | **[rag-custom-chat-bot](https://github.com/sameerzaman15/rag-custom-chat-bot)**<br/>A custom RAG chatbot that uses specific context and data to respond more intelligently and reliably. <br/><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-RAG-8B5CF6?style=flat-square) |
 
 ---
 
-## 📚 Full Documentation
+## 🔥 MORE PROJECTS
 
-For detailed setup instructions, customization options, and troubleshooting, see:
+| 💎 **[tx-load-runners](https://github.com/sameerzaman15/tx-load-runners)** | 🔄 **[svelte-todo](https://github.com/sameerzaman15/svelte-todo)** | 🧠 **[chatbot](https://github.com/sameerzaman15/chatbot)** |
+|---|---|---|
+| A modern refresh of an older website into a cleaner, more up-to-date experience. | A todo app built with Svelte and Tailwind CSS, focused on simplicity and clear state handling. | A JavaScript-based chatbot project exploring interactive user experiences. |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222) |
 
-👉 **[SETUP_GUIDE.md](SETUP_GUIDE.md)**
+| 📧 **[medshare](https://github.com/sameerzaman15/medshare)** | 🩺 **[first-contributions](https://github.com/sameerzaman15/first-contributions)** | 🧮 **[sameerzaman15](https://github.com/sameerzaman15/sameerzaman15)** |
+|---|---|---|
+| A project focused on sharing and presenting ideas through a clean web experience. | An open-source contribution project aimed at helping beginners take their first steps. | This profile repository, created to showcase my work and developer identity. |
+| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
 
----
-
-## 🎨 What's Included?
-
-### Sections in the Template:
-
-1. **Animated Header** - Dynamic typing effect with your taglines
-2. **About Me** - Introduction and interests
-3. **Latest Projects** - Showcase your top 2 projects with tech badges
-4. **More Projects** - Grid layout for up to 9 projects
-5. **Highlights** - Key achievements or focus areas
-6. **GitHub Stats** - Auto-generated stats, languages, and streak
-7. **Contribution Snake** - Animated contribution graph
-8. **Tech Stack** - Categorized technology badges
-9. **Connect With Me** - Social media links
-10. **Profile Views Counter** - Track your profile visitors
-
-### Files Included:
-
-```
-github-revamp/
-├── README.md                          # About this template (you're reading it!)
-├── PROFILE_TEMPLATE.md                # Your profile README template (rename to README.md)
-├── SETUP_GUIDE.md                     # Detailed setup instructions
-└── .github/
-    └── workflows/
-        └── snake.yml                  # Contribution snake animation
-```
+> 👉 These are some of my live repositories and ongoing experiments.
 
 ---
 
-## 🎯 Customization Tips
+## 🏆 HIGHLIGHTS
 
-### Change Accent Color
-
-Replace `D85A30` (orange) with your preferred color:
-- Blue: `3B82F6`
-- Green: `10B981`
-- Purple: `8B5CF6`
-- Red: `EF4444`
-
-### Add More Tech Badges
-
-Visit [shields.io](https://shields.io/) and [simpleicons.org](https://simpleicons.org/)
-
-Format:
-```markdown
-![Name](https://img.shields.io/badge/Name-HexColor?style=flat-square&logo=logoname&logoColor=white)
-```
-
-### Change Stats Theme
-
-Available themes: `tokyonight`, `dark`, `radical`, `gruvbox`, `dracula`, `monokai`, `vue`, `onedark`, `cobalt`, `nightowl`
-
-Replace `theme=tokyonight` in the stats URLs.
+| 🎯 Product-minded development | 🤖 AI curiosity | 📱 Clean user interfaces | 🌐 Modern web thinking |
+|---|---|---|---|
+| I enjoy building solutions that feel thoughtful, useful, and well-crafted | I’m always exploring smarter ways to automate and enhance everyday workflows | I care about intuitive experiences and polished interaction design | I like working with modern tools that make development faster and cleaner |
 
 ---
 
-## 🤝 Contributing
+## 📊 GITHUB STATS
 
-Contributions are welcome! If you have ideas for improvements:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sameerzaman15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&icon_color=D85A30&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerzaman15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&text_color=c9d1d9" alt="Top Languages" />
+</p>
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sameerzaman15&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 💡 Inspiration
+## 🐍 CONTRIBUTION SNAKE
 
-This template was inspired by the need for an easy, customizable GitHub profile README that anyone can use without complex setup or dependencies.
-
----
-
-## 🙏 Acknowledgments
-
-- [GitHub README Stats](https://github.com/anuraghazra/github-readme-stats) by anuraghazra
-- [Contribution Snake](https://github.com/Platane/snk) by Platane
-- [Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) by DenverCoder1
-- [Shields.io](https://shields.io/) for badges
-- [Simple Icons](https://simpleicons.org/) for logo icons
+![github contribution grid snake animation](https://github.com/sameerzaman15/sameerzaman15/raw/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-## ⭐ Show Your Support
+## 🛠 TECH STACK
 
-If this template helped you create an awesome GitHub profile, please give it a star! ⭐
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Developer Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## 📫 Contact
+## 📫 CONNECT WITH ME
 
-**Gul e Zara** - [@gulglitch](https://github.com/gulglitch)
-
-Project Link: [https://github.com/gulglitch/github-revamp](https://github.com/gulglitch/github-revamp)
+<p align="center">
+  <a href="https://github.com/sameerzaman15">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/sameerzaman15/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-**Made with ❤️ for the developer community**
+<p align="center">
+  <i>"Build with purpose, learn with curiosity, and ship with heart."</i>
+</p>
 
-*Happy profiling! 🚀*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sameerzaman15&color=D85A30&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
